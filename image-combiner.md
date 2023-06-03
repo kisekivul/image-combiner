@@ -1,0 +1,1 @@
+./image-combiner generate -i -r=registry.paas --arm64=/root/eki/arm64 --amd64=/root/eki/amd64
